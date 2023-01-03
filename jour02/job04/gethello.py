@@ -1,3 +1,3 @@
 def GetHello ():
-    return(print("Hello la Plateforme"))
-GetHello()
+    return "Hello la Plateforme"
+print(GetHello())
